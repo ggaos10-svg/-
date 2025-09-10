@@ -1,0 +1,5 @@
+{
+  "name": "BurnLab Fitness Pricing",
+  "description": "A web application to display the membership and personal training pricing for BurnLab Fitness.",
+  "requestFramePermissions": []
+}
